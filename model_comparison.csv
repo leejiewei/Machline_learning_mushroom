@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,Log-loss
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,0.000401120493128102
+Decision Tree,1.0,1.0,1.0,1.0,1.0,2.220446049250313e-16
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.0004105498199277352
+Ensemble (Soft Voting),1.0,1.0,1.0,1.0,1.0,0.0004039673258362857
